@@ -1,0 +1,30 @@
+h1 {
+    color:#EAECEB;
+    font-family: helvetica, Arial, sans-serif;
+}
+body {
+	 background-color: #94C9A9;
+	 position: absolute;
+	 top: 50%;
+	 left: 50%;
+	 transform: translate(-50%, -50%);
+	 color: #545C52;
+	 font-family: helvetica, Arial, sans-serif;
+}
+
+ul {
+	list-style-type:square;
+}
+
+ul li {
+	padding-left: 15px;
+	color: #5E6973
+}
+
+a {
+	color: #5E6973;
+}
+
+h2 {
+	color:#EAECEB;
+}
